@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 2vw;
+}
+
+html,
+body {
+  height: 100%;
+  font-size: 16px;
+  background-color: #1f6f8b;
+}
+
+#root {
+  height: 100%;
+}
